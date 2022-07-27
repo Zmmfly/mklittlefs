@@ -6,6 +6,7 @@ out.*
 build
 .xmake
 .vscode
+dist
 
 # eclipse wokspace files and dirs
 .project
